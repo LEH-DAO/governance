@@ -1,0 +1,7 @@
+{
+  "name": "mango-v4-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
